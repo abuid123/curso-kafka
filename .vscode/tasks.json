@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "../AppData/Roaming/Code/User/workspaceStorage/87f707888f0b728cae5f82fa9057a3f1/ms-dotnettools.csdevkit/CursoKafka.sln",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "publish",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "publish",
+        "../AppData/Roaming/Code/User/workspaceStorage/87f707888f0b728cae5f82fa9057a3f1/ms-dotnettools.csdevkit/CursoKafka.sln",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "watch",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "watch",
+        "run",
+        "--project",
+        "${workspaceFolder}/SM-Post/Post.Cmd/Post.Cmd.Api/Post.Cmd.Api.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}

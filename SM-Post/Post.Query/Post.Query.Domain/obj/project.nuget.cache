@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZQM5pXJnOI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\todoy\\Documents\\CursoKafka\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\todoy\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\todoy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\todoy\\.nuget\\packages\\mongodb.bson\\3.13.0\\mongodb.bson.3.13.0.nupkg.sha512",
+    "C:\\Users\\todoy\\.nuget\\packages\\mongodb.driver\\3.13.0\\mongodb.driver.3.13.0.nupkg.sha512",
+    "C:\\Users\\todoy\\.nuget\\packages\\sharpcompress\\0.48.1\\sharpcompress.0.48.1.nupkg.sha512",
+    "C:\\Users\\todoy\\.nuget\\packages\\snappier\\1.3.1\\snappier.1.3.1.nupkg.sha512",
+    "C:\\Users\\todoy\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
