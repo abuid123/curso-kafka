@@ -236,6 +236,10 @@ ClientBin/
 *.dbmdl
 *.dbproj.schemaview
 *.jfm
+bin/
+obj/
+.vs/
+*.user
 *.pfx
 *.publishsettings
 orleans.codegen.cs
